@@ -1,0 +1,25 @@
+@charset "ISO-8859-1";
+
+form,table, th, tr{
+	border: 2px solid #694D75;
+	background-color: #331832;
+	padding: 2px;
+}
+
+form,input[type="button"], input[type="submit"]{
+	background-color: #1B5299;
+	padding: 2px;
+}
+
+th{
+	background-color: #1B5299;
+}
+
+*{
+	background-color: #331832;
+	color: #F1ECCE
+}
+
+input[type="text"],tr {
+	background-color: #694D75;
+}
